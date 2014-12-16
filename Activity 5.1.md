@@ -23,7 +23,7 @@ Figure out the output from this program by filling in the following table. Do no
 |3      |               |                                  |
 |4      |               |                                  |
 |5      |               |                                  |
-|-------|---------------|----------------------------------|	 
+	 
 
 
 2.
