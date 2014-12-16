@@ -1,4 +1,5 @@
-1. 
+#### 1. 
+```
 def squares(m):
       s = ""
       sum = 0
@@ -12,18 +13,21 @@ def squares(m):
       print(s)
  
 squares(5)
-
+```
 Figure out the output from this program by filling in the following table. Do not run this code in Python!
 
-j	  s	            sum
-1	 	 
-2	 	 
-3	 	 
-4	 	 
-5	 	 
+|j	  |s	            |sum                               |
+|-------|---------------|----------------------------------|
+|1      |               |                                  |
+|2      |               |                                  |
+|3      |               |                                  |
+|4      |               |                                  |
+|5      |               |                                  |
+|-------|---------------|----------------------------------|	 
 
 
 2.
+```
 def justcuz(x):
       s=""
       for i in range(1, x):
@@ -42,6 +46,7 @@ def justcuz(x):
                    else:
                         s += "?, "
 justcuz(3)
+```
 Trace this program using a table.
 
 
